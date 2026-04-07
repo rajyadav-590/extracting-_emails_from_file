@@ -1,0 +1,6 @@
+Hello user123@gmail.com, please contact admin@company.org for support.
+Invalid emails like user@@mail.com, test.email.com, and @missingusername.com should be ignored.
+You can also try valid ones like first.last@domain.co.in or student_01@college.edu.
+Some random text here with wrong formats like user#domain.com and name@.com.
+Another valid email is example123@test-domain.com, but invalid ones include test@domain and test@domain,com.
+End of message. Reach out at helpdesk@service.net if needed.
